@@ -1,0 +1,6 @@
+{
+  "name": "ArchVM",
+  "description": "Interactive Arch Linux terminal VM emulator with Pacman package manager, virtual filesystem, shell scripting, code interpreters, and monitoring tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
